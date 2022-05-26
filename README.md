@@ -9,4 +9,6 @@
 ##
   <div> 
   <a href="https://www.instagram.com/anntoniogabriel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <img align="right" alt="gabri-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941107915098554380/979426019125653514/Webp.net-gifmaker.gif">
+  </div>
   
