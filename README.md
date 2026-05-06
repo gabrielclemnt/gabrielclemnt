@@ -3,9 +3,9 @@
 Engenheiro de Computação em formação pela **UFPE (CIn)**.
 
 ### 🚀 Sobre Mim
-- 🎓 Estudante de Engenharia de Computação no **Centro de Informática (CIn) - UFPE**.
-- 🛠️ Experiência com administração e desenvolvimento de plugins para o **Moodle (PHP/SQL)**.
-- 🧪 Atuo como estagiário de TI na **SPREAD/UFPE**, lidando com suporte e desenvolvimento.
+-  Estudante de Engenharia de Computação no **Centro de Informática (CIn) - UFPE**.
+-  Experiência com administração e desenvolvimento de plugins para o **Moodle (PHP/SQL)**.
+-  Atuo como estagiário de TI na **SPREAD/UFPE**, lidando com suporte e desenvolvimento.
 
 ### 🛠️ Experiência com:
 
